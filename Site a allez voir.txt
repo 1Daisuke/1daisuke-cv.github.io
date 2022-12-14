@@ -1,0 +1,2 @@
+Error check : https://validator.w3.org/
+Performance check : https://pagespeed.web.dev/?hl=fr
