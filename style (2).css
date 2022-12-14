@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'pixel_operatorbold';
+    src: url('Fonts/Pixel Operator Bold/pixeloperator-bold-webfont.eot');
+    src: url('Fonts/Pixel Operator Bold/pixeloperator-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/Pixel Operator Bold/pixeloperator-bold-webfont.woff2') format('woff2'),
+         url('Fonts/Pixel Operator Bold/pixeloperator-bold-webfont.woff') format('woff'),
+         url('Fonts/Pixel Operator Bold/pixeloperator-bold-webfont.ttf') format('truetype'),
+         url('Fonts/Pixel Operator Bold/pixeloperator-bold-webfont.svg#pixel_operatorbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'annie_use_your_telescopeRg';
+    src: url('Fonts/Annie Use Your Telescope/annieuseyourtelescope-webfont.eot');
+    src: url('Fonts/Annie Use Your Telescope/annieuseyourtelescope-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/Annie Use Your Telescope/annieuseyourtelescope-webfont.woff2') format('woff2'),
+         url('Fonts/Annie Use Your Telescope/annieuseyourtelescope-webfont.woff') format('woff'),
+         url('Fonts/Annie Use Your Telescope/annieuseyourtelescope-webfont.ttf') format('truetype'),
+         url('Fonts/Annie Use Your Telescope/annieuseyourtelescope-webfont.svg#annie_use_your_telescopeRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: @font-face;
+    font-family: 'neuropol_xregular';
+    src: url('Fonts/Neueopol X/neuropol_x_rg-webfont.eot');
+    src: url('Fonts/Neueopol X/neuropol_x_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/Neueopol X/neuropol_x_rg-webfont.woff2') format('woff2'),
+         url('Fonts/Neueopol X/neuropol_x_rg-webfont.woff') format('woff'),
+         url('Fonts/Neueopol X/neuropol_x_rg-webfont.ttf') format('truetype'),
+         url('Fonts/Neueopol X/neuropol_x_rg-webfont.svg#neuropol_xregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#footer
+{
+	padding-top: 1em;
+	display: flex;
+	justify-content: space-around;
+}
+
+.Sans
+{
+	justify-content: flex-end;
+}
+
+h1
+{
+	color: silver;
+	font-family: Arial, Comic Sans MS;
+	font-size: 2em;
+	text-align: center;
+	text-decoration: underline
+}
+
+.Undertale
+{
+	color: white;
+	font-family: 'pixel_operatorbold', Arial;
+}
+
+.DDLC
+{
+	font-family: 'annie_use_your_telescopeRg', Arial;
+	color: rgb(255,189,225);
+}
+
+.Miku
+{
+	font-family: 'neuropol_xregular', Arial;
+	color: rgb(47,153,151);
+}
+
+body
+{
+	background-image: url("Fond de Page.png");
+}
+
+p
+{
+	font-family: Arial Black;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+
+h2
+{
+	color:silver;
+	text-decoration: underline;
+	font-family: Arial, Comic Sans MS;
+}
+
+li
+{
+	color: gray;
+	font-family: Arial, Comic Sans MS
+}
+
+.Mail
+{
+	font-family:'pixel_operatorbold', Arial;
+	color: white;
+}
+
+.Photo
+{
+	box-shadow: 7px 7px 7px white;
+	border: 3px grey solid;	
+}
+
+.1A
+{
+	font-family: Arial, Comic Sans MS;
+	color: white;
+	text-align: center;
+}
