@@ -1,22 +1,35 @@
-h1, h2, li 
-{
-    font-family: arial;
+ul, h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.right
+.photo
 {
-    position: initial;
-    background-color: rgb(126, 219, 231);
-    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
 }
 
-.full 
+body
 {
-    width: 50%;
-    max-width: 1000px;
-    min-height: 100px;
-    background-color: rgb(245, 239, 231);
-    margin: 0px;
-    display: grid;
-    grid-template-columns: 2fr 4fr;
+    background-color:grey;
+}
+
+.name
+{
+    display: flex;
+    justify-content: center;
+}
+header
+{
+    background-color: blue;
+    margin-left: 80%;
+    margin-block-start: -8px;
+    margin-right: -8px;
+    margin-left: 80%;
+}
+
+section
+{
+    display: flex;
+    margin-right: 10%;
 }
