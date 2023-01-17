@@ -11,12 +11,12 @@ ul, h1, h2 {
 
 body
 {
-    background-color: black;
+    background-color: darkgray;
 }
 
 header
 {
-    background-color: blue;
+    background-color:grey;
     display: flex;
     justify-content: center;
     align-items: center;
