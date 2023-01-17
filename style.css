@@ -27,6 +27,12 @@ header
     border-radius: 30px;
 }
 
+.name
+{
+    font-size: 30px;
+
+}
+
 section
 {
     background-color: aliceblue;
