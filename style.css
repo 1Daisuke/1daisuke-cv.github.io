@@ -6,36 +6,49 @@ ul, h1, h2 {
 {
     display: flex;
     justify-content: center;
+    margin-top: 10px;
+}
+
+.title
+{
+    background-color: aqua;
+
+}
+
+li
+{
     
+
 }
 
 body
 {
-    background-color:grey;
-}
-
-.name
-{
-    display: flex;
-    justify-content: center;
+    background-color: black;
 }
 
 header
 {
     background-color: blue;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    justify-content: right;
-    margin-top: -8px;
-    margin-left: 80%;
-    margin-right: -8px;
+    margin-right: 200px;
+    margin-left: 200px;
+    box-sizing: border-box;
+    border-radius: 30px;
 }
 
 section
 {
+    background-color: aliceblue;
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    justify-content: left;
-    margin-right: 10%;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+
 }
