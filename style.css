@@ -7,8 +7,6 @@ ul, h1, h2 {
     display: flex;
     justify-content: center;
     margin-top: 10px;
-    width: 100%;
-    height: auto;
 }
 
 body
